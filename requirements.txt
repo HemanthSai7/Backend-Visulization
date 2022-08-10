@@ -5,5 +5,3 @@ numpy
 seaborn
 pandas
 streamlit
-numpy
-
