@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 
 ####### Load Dataset #####################
 
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("./dataset.csv")
 
 st.set_page_config(layout="wide")
 
